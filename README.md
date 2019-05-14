@@ -1,3 +1,3 @@
 # timbrowning.github.io
 
-This is my portfolo page!
+This is my portfolio page!
